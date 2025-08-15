@@ -196,7 +196,7 @@ class ToretVyfakturuj
     {
         // Get settings from WordPress options
         $this->login = get_option('vyfakturuj_login', '');
-        $this->apiKey = get_option('vyfakturuj_api_key', '0qGr3JavojBZWQX9v9WFz0N95jxNdKlgOkD1Rn9p');
+        $this->apiKey = get_option('vyfakturuj_api_key', '');
         
         if (!empty($this->login) && !empty($this->apiKey)) {
             $this->api = new VyfakturujAPI($this->login, $this->apiKey);
