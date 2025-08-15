@@ -6,7 +6,7 @@
  * for automatic invoice generation and email sending.
  * 
  * @version 1.0.0
- * @author Your Name
+ * @author theknyazzev
  * @license GPL-2.0+
  */
 
