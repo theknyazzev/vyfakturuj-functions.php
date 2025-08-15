@@ -171,11 +171,11 @@ This project is licensed under the GPL v2 License - see the [LICENSE](LICENSE) f
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read our [Developer Documentation](developers.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! Please read our [Developer Documentation](DEVELOPMENT.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## 📞 Support
 
-- Check the [Developer Documentation](developers.md) for technical details
+- Check the [Developer Documentation](DEVELOPMENT.md) for technical details
 - Review WooCommerce logs for error messages
 - Verify Vyfakturuj.cz API status and credentials
 
